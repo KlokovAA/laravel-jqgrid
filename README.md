@@ -1,4 +1,4 @@
-# Laravel jqGrid package
+# Laravel jqGrid package KlokovAA Fork
 
 [![Latest Stable Version](https://poser.pugx.org/mgallegos/laravel-jqgrid/v/stable.png)](https://packagist.org/packages/mgallegos/laravel-jqgrid) [![Total Downloads](https://poser.pugx.org/mgallegos/laravel-jqgrid/downloads.png)](https://packagist.org/packages/mgallegos/laravel-jqgrid)
 
